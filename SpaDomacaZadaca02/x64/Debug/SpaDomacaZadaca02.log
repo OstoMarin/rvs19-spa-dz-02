@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\marin\OneDrive\Desktop\SPA\SpaDomacaZadaca02\SpaDomacaZadaca02\main.cpp(13,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  SpaDomacaZadaca02.vcxproj -> C:\Users\marin\OneDrive\Desktop\SPA\SpaDomacaZadaca02\x64\Debug\SpaDomacaZadaca02.exe
